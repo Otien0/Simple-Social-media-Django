@@ -22,3 +22,7 @@ TIPS:
   Also, Google about "# slugify" && "# misaka" and know how to use them. Links below:
 #                                                                https://pypi.org/project/django-slugify-processor/
 #                                                                https://pypi.org/project/django-misaka/
+
+Another requirements for the posts_application is to install the "django-braces" package; 
+ which allows us to access some convenient Mixins to use with CBVs(Class Based Views)
+    >> Inside your virtual environment use; pip install django-braces 
