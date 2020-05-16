@@ -11,4 +11,6 @@ It has key features such as;
 
 # Requirements:
               
-1. django-bootstrap4  : https://pypi.org/project/django-bootstrap4/ 
+1. django-bootstrap4  : https://pypi.org/project/django-bootstrap4/
+
+2. django-misaka  :  https://pypi.org/project/django-misaka/ 
