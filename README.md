@@ -8,6 +8,8 @@ It has key features such as;
                  c) Posts in groups(similar to a tweet), 
                  d) Linking User profiles with '@'_symbol, 
                  e) Multiple applications.
+                 
+More documented notes are found in 'notes.txt' file attached on this repository
 
 # Requirements:
               
