@@ -13,4 +13,6 @@ It has key features such as;
               
 1. django-bootstrap4  : https://pypi.org/project/django-bootstrap4/
 
-2. django-misaka  :  https://pypi.org/project/django-misaka/ 
+2. django-misaka  :  https://pypi.org/project/django-misaka/
+
+3. django-braces  :  https://pypi.org/project/django-braces/ 
