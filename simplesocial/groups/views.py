@@ -9,6 +9,7 @@ from django.urls import reverse
 from django.views import generic
 from django.shortcuts import get_object_or_404
 from groups.models import Group,GroupMember
+from . import models
 
 class CreateGroup(LoginRequiredMixin, generic.CreateView):
     fields = ("name", "description")
