@@ -18,3 +18,5 @@ More documented notes are found in 'notes.txt' file attached on this repository
 2. django-misaka  :  https://pypi.org/project/django-misaka/
 
 3. django-braces  :  https://pypi.org/project/django-braces/ 
+
+4. For more stylings in static files(html, css && js), visit : https://codepen.io/Thibka/pen/mWGxNj
