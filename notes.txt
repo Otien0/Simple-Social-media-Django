@@ -21,3 +21,10 @@ Another requirements for the posts_application is to install the "django-braces"
  >>>> The css, and js stylings are all available on codepen; 
                   check this site;    http://codepen.io/Thibka/pen/mWGxNj
  Copy the codes and paste it to your static files
+ 
+>>>>>DEBUGING>>>>>>>
+Django Debug Toolbar:
+    The Django Toolbar gives useful panel tools about your project than can help you clarify why certain behaviour is happening.
+    It won't be able to directly pinpoint the exact source of a bug, it just contains useful information you may find helpful.
+    https://pypi.org/project/django-debug-toolbar/
+    https://django-debug-toolbar.readthedocs.io/en/latest/
