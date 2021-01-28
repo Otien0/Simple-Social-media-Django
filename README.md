@@ -19,4 +19,4 @@ More documented notes are found in 'notes.txt' file attached on this repository
 
 3. django-braces  :  https://pypi.org/project/django-braces/ 
 
-4. For more stylings in static files(html, css && js), visit : https://codepen.io/Thibka/pen/mWGxNj
+4. On stylings in static files(html, css && js), I used : https://codepen.io/Thibka/pen/mWGxNj
